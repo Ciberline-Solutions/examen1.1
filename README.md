@@ -1,1 +1,2 @@
-# examen1.1
+git init
+git checkout -b nombre-de-la-rama
